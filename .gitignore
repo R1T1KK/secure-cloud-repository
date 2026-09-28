@@ -1,0 +1,8 @@
+node_modules/
+cloudflared.exe
+.env
+dist/
+build/
+artifacts/
+cache/
+typechain-types/

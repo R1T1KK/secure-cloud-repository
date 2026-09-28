@@ -1,0 +1,11 @@
+{
+  "name": "secure-cloud-repository",
+  "version": "1.0.0",
+  "description": "Secure Cloud Repository - College Demo MVP",
+  "scripts": {
+    "blockchain:node": "npm --prefix blockchain run node",
+    "blockchain:deploy": "npm --prefix blockchain run deploy",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev"
+  }
+}
